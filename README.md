@@ -7,6 +7,10 @@
 
 A Terraform Module for configuring an integration with Lacework and AWS for CloudTrail analysis for organizations using AWS Control Tower.
 
+
+SOME RANDOM CHANGE
+
+
 ## Requirements
 
 | Name | Version |
